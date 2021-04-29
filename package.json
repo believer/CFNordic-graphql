@@ -19,6 +19,6 @@
     "graphql": "^0.9.1",
     "moment": "^2.17.1",
     "nconf": "^0.8.4",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.1"
   }
 }
